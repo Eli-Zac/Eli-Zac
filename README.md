@@ -18,7 +18,3 @@
 ![](https://github-contributor-stats.vercel.app/api?username=Eli-Zac&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Eli-Zac&icon=0&color=6)](https://visitcount.itsvg.in)
-
-  ## 💰 You can help me by Donating
-  [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/Eli_Zac) 
