@@ -14,7 +14,4 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Eli-Zac&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Eli-Zac&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
-
 ---
