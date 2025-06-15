@@ -8,8 +8,8 @@
 ## GitHub Stats:
 ![              ](https://github-readme-streak-stats.herokuapp.com/?user=Eli-Zac&theme=tokyonight&border_radius=15&card_width=400)
 ![                 ](https://github-readme-stats.vercel.app/api?username=Eli-Zac&theme=tokyonight&border_radius=15&card_width=400&show_icons=true&include_all_commits=true&count_private=true&rank_icon=percentile)
-![      ](https://github-readme-stats.vercel.app/api/top-langs/?username=Eli-Zac&theme=tokyonight&border_radius=15&card_width=400&langs_count=6)
-![WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=Eli_Zac&theme=tokyonight&border_radius=15&card_width=400&langs_count=7)
+![      ](https://github-readme-stats.vercel.app/api/top-langs/?username=Eli-Zac&theme=tokyonight&border_radius=15&card_width=800&langs_count=6)
+![WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=Eli_Zac&theme=tokyonight&border_radius=15&card_width=800&langs_count=7)
 ---
 ![](https://github-profile-trophy.vercel.app/?username=Eli-Zac&theme=tokyonight&no-frame=false&no-bg=false&margin-w=20)
 
